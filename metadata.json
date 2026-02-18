@@ -1,0 +1,5 @@
+{
+  "name": "AgroScan AI",
+  "description": "An AI-powered drone imagery analysis platform for precision agriculture crop monitoring and health assessment.",
+  "requestFramePermissions": []
+}
